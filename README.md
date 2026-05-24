@@ -81,4 +81,4 @@ The main `loop()` contains four separate sub-routines that are constantly being 
 4.  **`updateLauncher()`**: A 5-stage state machine (`IDLE` -> `AIMING` -> `FIRING_DOWN` -> `FIRING_UP` -> `RETURNING`). It smoothly rotates the launcher servo to the recorded `lockedAngle`, dips down to "fire", and returns to the `readyAngle`.
 
 ## 📜 License
-Feel free to use, modify, and distribute this project. Happy building!
+DO not feel free to use, modify, and distribute this project. 
